@@ -1,3 +1,5 @@
+# Equipe: Gabriel Dantas e Matheus Dourado 
+---
 # Sistema de Cadastro de Leads / Clientes 🚀
 
 Projeto desenvolvido como parte da atividade prática da disciplina de **Programação Web II** no Curso Técnico em Desenvolvimento de Sistemas da **ETEC Irmã Agostina** (Centro Paula Souza).
@@ -45,4 +47,7 @@ PROJETOPHP/
 │   └── (scripts Javascript)
 ├── index.php         # Formulário de cadastro de clientes
 └── processa.php      # Lógica de validação, processamento e exibição 
+
+
+
 
